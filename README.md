@@ -11,10 +11,13 @@
   ![Node](https://img.shields.io/badge/node-%3E=18.0.0-green.svg)
   ![Electron](https://img.shields.io/badge/electron-29.x-blue.svg)
   ![NextJS](https://img.shields.io/badge/next.js-14.x-black.svg)
+  [![Downloads](https://img.shields.io/github/downloads/wickstudio/wickauth/total.svg)](https://github.com/wickstudio/wickauth/releases/tag/v1.0.0)
+  [![Release](https://img.shields.io/github/v/release/wickstudio/wickauth.svg)](https://github.com/wickstudio/wickauth/releases/tag/v1.0.0)
 </div>
 
 <p align="center">
   <a href="#overview">Overview</a> •
+  <a href="#downloads">Downloads</a> •
   <a href="#features">Features</a> •
   <a href="#screenshots">Screenshots</a> •
   <a href="#installation">Installation</a> •
@@ -36,6 +39,16 @@
 WickAuth is a professional-grade desktop authenticator application that provides secure two-factor authentication (2FA) using Time-Based One-Time Passwords (TOTP). Built with modern technologies like Electron, Next.js, and NextUI, it offers a sleek, intuitive interface while maintaining robust security standards.
 
 Unlike browser-based authenticators, WickAuth operates as a standalone desktop application, offering enhanced security and offline accessibility. It's perfect for professionals, developers, and security-conscious users who require reliable authentication across multiple services.
+
+## Downloads
+
+### Latest Release: v1.0.0
+
+- 📥 [WickAuth-Portable-1.0.0.exe](https://github.com/wickstudio/wickauth/releases/download/v1.0.0/WickAuth-Portable-1.0.0.exe) - Portable Windows Executable (No installation required)
+- 📦 [Source code (zip)](https://github.com/wickstudio/wickauth/archive/refs/tags/v1.0.0.zip) - Source code archive (zip)
+- 📦 [Source code (tar.gz)](https://github.com/wickstudio/wickauth/archive/refs/tags/v1.0.0.tar.gz) - Source code archive (tar.gz)
+
+View all releases: [https://github.com/wickstudio/wickauth/releases](https://github.com/wickstudio/wickauth/releases)
 
 ## Features
 
