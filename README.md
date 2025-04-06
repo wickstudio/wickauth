@@ -489,7 +489,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
   <p>
     <a href="https://github.com/wickstudio">
-      <img src="https://via.placeholder.com/120x120.png?text=WickStudio" alt="WickStudio" width="60" style="border-radius: 50%;" />
+      <img src="https://media.wickdev.me/IGG6cyadBh.png" alt="WickStudio" width="60" style="border-radius: 50%;" />
     </a>
   </p>
   <p>
