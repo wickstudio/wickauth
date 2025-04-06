@@ -19,7 +19,6 @@
   <a href="#overview">Overview</a> •
   <a href="#downloads">Downloads</a> •
   <a href="#features">Features</a> •
-  <a href="#screenshots">Screenshots</a> •
   <a href="#installation">Installation</a> •
   <a href="#usage">Usage</a> •
   <a href="#architecture">Architecture</a> •
@@ -80,21 +79,6 @@ View all releases: [https://github.com/wickstudio/wickauth/releases](https://git
 - **IPC Communication**: Secure communication between renderer and main processes
 - **Protocol Handling**: Custom protocol handling for proper resource resolution
 - **Multiple Build Options**: Both installed and portable versions available
-
-## Screenshots
-
-<div align="center">
-  <img src="https://via.placeholder.com/800x450.png?text=WickAuth+Main+Screen" alt="WickAuth Main Screen" width="80%" />
-  <p><em>Main application interface showing authentication tokens</em></p>
-  
-  <br />
-  
-  <div style="display: flex; justify-content: space-between;">
-    <img src="https://via.placeholder.com/380x300.png?text=Add+Token+Screen" alt="Add Token Screen" width="48%" />
-    <img src="https://via.placeholder.com/380x300.png?text=Token+Details" alt="Token Details" width="48%" />
-  </div>
-  <p><em>Left: Adding a new authentication token | Right: Token details view</em></p>
-</div>
 
 ## Installation
 
