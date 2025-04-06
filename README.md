@@ -189,7 +189,7 @@ WickAuth follows a modern architecture pattern combining Electron and Next.js:
 
 ```
 ┌────────────────────────────────┐
-│      Electron Main Process      │ ← Main application process
+│      Electron Main Process     │ ← Main application process
 ├────────────────────────────────┤
 │        IPC Bridge Layer        │ ← Inter-process communication
 ├────────────────────────────────┤
@@ -240,7 +240,7 @@ interface Token {
 
 1. Fork and clone the repository
    ```bash
-   git clone https://github.com/yourusername/wickauth.git
+   git clone https://github.com/wickstudio/wickauth.git
    cd wickauth
    ```
 
